@@ -1,0 +1,53 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "50dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sa1113aeb81f4f6d949e1f2769f71656",
+    "_text_": "Show Toast Message Using FFI",
+    "_top_": {
+        "type": "string",
+        "value": "31dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "90%"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "se735e89c04e4b498a931d0a93288652",
+    "id": "btnShowToastMessageUsingFFI",
+    "ide_onClick": "AS_Button_ed461fdc92d74c6f88ef53ec60fc6210",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "eff5990c70d34fbe80c027c563ad26d4",
+    "name": "kony.ui.Button",
+    "parent": "frmHome",
+    "pf": "frmHome",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "wType": "Button",
+    "zindex": 1
+}

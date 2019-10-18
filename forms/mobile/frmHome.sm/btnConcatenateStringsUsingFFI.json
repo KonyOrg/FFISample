@@ -1,0 +1,53 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "50dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sa1113aeb81f4f6d949e1f2769f71656",
+    "_text_": "Concatenate Strings Using FFI",
+    "_top_": {
+        "type": "string",
+        "value": "97dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "90%"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "se735e89c04e4b498a931d0a93288652",
+    "id": "btnConcatenateStringsUsingFFI",
+    "ide_onClick": "AS_Button_fc82ae44861d4c57a8d52ffc21066d42",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "a1c56d0c058f4efea6d5833df97145df",
+    "name": "kony.ui.Button",
+    "parent": "frmHome",
+    "pf": "frmHome",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "wType": "Button",
+    "zindex": 1
+}

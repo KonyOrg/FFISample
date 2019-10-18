@@ -1,0 +1,28 @@
+{
+    "AS_Button_ed461fdc92d74c6f88ef53ec60fc6210": {
+        "id": "AS_Button_ed461fdc92d74c6f88ef53ec60fc6210",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmHome",
+            "type": "forms",
+            "platform": null,
+            "KUID": "jc493f47c5014ccca844a9cc3bff1d5b"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___g01a039e3a0f4f0f8c13ccad775f79c2",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "showToastMessageUsingFFI",
+            "display": "showToastMessageUsingFFI",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}
